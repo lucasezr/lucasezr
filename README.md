@@ -1,9 +1,15 @@
-### Hi there 👋
+###  👋
 
 <!--
 **lucasezr/lucasezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+Here a![68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4d656c696e614c656e63696e61267468656d653d7261646963616c26686964655f626f726465723d74727565](https://user-images.githubusercontent.com/84158557/200939159-68e1287c-7b8e-471f-a231-cbb8631111fd.svg)
+
+
+![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/84158557/200939229-e8ac86f8-439d-47ee-adcb-c845ca03ec3b.svg)
+
+re some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
