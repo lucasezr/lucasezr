@@ -1,22 +1,67 @@
-###  👋
-
-<!--
-**lucasezr/lucasezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here a![68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4d656c696e614c656e63696e61267468656d653d7261646963616c26686964655f626f726465723d74727565](https://user-images.githubusercontent.com/84158557/200939159-68e1287c-7b8e-471f-a231-cbb8631111fd.svg)
+<h1 align="center">
+  <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Rubik&size=30&duration=4000&color=E88F11&lines=Hello%2C+world!+%F0%9F%91%BD+I'm+Lucas"/>
+</h1>
 
 
-![68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465](https://user-images.githubusercontent.com/84158557/200939229-e8ac86f8-439d-47ee-adcb-c845ca03ec3b.svg)
+<h3 align="center">Software Developer orientado al Back-End</h3>
+<!-- <br/> -->
+<h4> Soy un joven proactivo, eterno estudiante, apasionado por la programación, distintas aréas de las ciencias computacionales y el desarrollo personal. </h4>
 
-re some ideas to get you started:
+<p>
+  <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasezr&layout=compact&card_width=800&theme=radical&hide_border=true" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+
+
+- 💻 Egresado del Bootcamp Soy Henry. Actualmente estoy busqueda laboral activa. 
+
+- 🔍 Me encuentro realizando el curso de Argentina programa Full Stack Web y Oracle Next Education orientado a Java.
+
+</p>
+
+
+<p align="center">
+  <i>Conectemos!</i>
+</p>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/lucasezr" alt="Linkedin"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" width="35px"</a>
+    <a href="mailto:lucasezr@hotmail.com" alt="Enviame un email"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="35px"></a>
+  </p>
+
+<hr />
+
+
+<h3 align="center"> Languajes y herramientas :hammer: </h3>
+<br> 
+
+<p align="center">
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=gray&style=for-the-badge">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">&nbsp;&nbsp;
+</p>
+<br>
+
+
+### Education and certifications :books: 
+ 
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Bootcamp Soy Henry 💥
+
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95) Argentina Programa etapa #SeProgramar ⚡
+
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/45) Oracle Next Education (Perfil Java) 🕜
+
+
+
+
+
+
+<h3 align="center"> 🎨 ¿Estás buscando un desarrollador? ¡Te invito a ponerte en contacto conmigo! 🎨 </h3>
