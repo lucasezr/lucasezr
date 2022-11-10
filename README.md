@@ -51,7 +51,7 @@
 <br>
 
 
-### Education and certifications :books: 
+### Educación y certificaciones :books: 
  
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Bootcamp Soy Henry 💥
 
