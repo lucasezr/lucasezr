@@ -42,11 +42,14 @@
 <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/-ReactJS-61DAFB?logo=react&logoColor=gray&style=for-the-badge">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-%4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white&color=819FF7">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/prisma-%2D3748.svg?style=for-the-badge&logo=prisma&color=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/sequelize-%52B0E7.svg?style=for-the-badge&logo=sequelize&color=000000">&nbsp;&nbsp;
+  
 </p>
 <br>
 
