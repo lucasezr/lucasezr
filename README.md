@@ -47,7 +47,7 @@
 <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/prisma-%2D3748.svg?style=for-the-badge&logo=prisma&color=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/prisma-%2D3748.svg?style=for-the-badge&logo=prisma&color=grey">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/sequelize-%52B0E7.svg?style=for-the-badge&logo=sequelize&color=000000">&nbsp;&nbsp;
   
 </p>
