@@ -3,7 +3,7 @@
 </h1>
 
 
-<h3 align="center">Software Developer orientado al Back-End</h3>
+<h3 align="center">Full Stack Developer orientado al Back-End</h3>
 <!-- <br/> -->
 <h4> Soy un joven proactivo, eterno estudiante, apasionado por la programación, distintas aréas de ciencias de la computación y el desarrollo personal. </h4>
 
