@@ -58,7 +58,7 @@
  
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Bootcamp Soy Henry 💥
 
-![](https://us-central1-progress-markdown.cloudfunctions.net/progress/95) Argentina Programa etapa #SeProgramar ⚡
+![](https://us-central1-progress-markdown.cloudfunctions.net/progress/100) Argentina Programa etapa #SeProgramar ⚡
 
 ![](https://us-central1-progress-markdown.cloudfunctions.net/progress/45) Oracle Next Education (Perfil Java) 🕜
 
