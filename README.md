@@ -5,7 +5,7 @@
 
 <h3 align="center">Full Stack Developer orientado al Back-End</h3>
 <!-- <br/> -->
-<h4> Soy un joven proactivo, eterno estudiante, apasionado por la programación, distintas aréas de ciencias de la computación y el desarrollo personal. </h4>
+<h4> Soy un joven proactivo, emprendedor, estudiante de marketing digital, apasionado por la programación, distintas aréas de ciencias de la computación y el desarrollo personal. </h4>
 
 <p>
   <img width="96%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasezr&layout=compact&card_width=800&theme=radical&hide_border=true" />
@@ -14,9 +14,8 @@
 <p>
 
 
-- 💻 Egresado del Bootcamp Soy Henry. Actualmente estoy busqueda laboral activa. 
+- 💻 Egresado del Bootcamp Soy Henry.
 
-- 🔍 Me encuentro realizando el curso de Argentina programa Full Stack Web y Oracle Next Education orientado a Java.
 
 </p>
 
